@@ -756,3 +756,16 @@ button#cancelBtn {
 .contact-title {
   margin-bottom: 10px;
 }
+
+.social-icon-first {
+  color: white;
+  font-size: 30px;
+  cursor: url("../img/hover.png"), auto !important;
+}
+
+.social-icon {
+  color: white;
+  font-size: 30px;
+  padding-left: 20px;
+  cursor: url("../img/hover.png"), auto !important;
+}
